@@ -1,4 +1,4 @@
-# Student Homework Conenctor
+# Student Homework Connector
 Connects students working on the same homeworks and projects to encourage teamwork.\
 **Results:** 
 
